@@ -1,0 +1,8 @@
+2, 4, 6, 5, 2, 4, 6, 6, 5, 6, 
+Husni, Ridho, Farhan, tama, Sarah, 
+Nama         : Khusni Ridho
+NIM          : 22201022
+Alamat       : Jl. Soekarno Hatta Jl. Rembuksari No.1 A, Mojolangu, Kec. Lowokwaru, Kota Malang, Jawa Timur 65113
+Usia         : 20
+Tinggi badan : 165.5
+Berat badan  : 55.5
