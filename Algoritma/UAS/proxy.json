@@ -1,0 +1,137 @@
+[
+    {
+        "proxy": "34.36.96.83:3128",
+        "kota": "Salem",
+        "wilayah": "Oregon",
+        "negara": "US",
+        "zona-waktu": "America/Los_Angeles",
+        "lokasi": "44.9429,-123.0351",
+        "ping": 10.11
+    },
+    {
+        "proxy": "194.233.81.116:14344",
+        "kota": "Singapore",
+        "wilayah": "Singapore",
+        "negara": "SG",
+        "zona-waktu": "Asia/Singapore",
+        "lokasi": "1.2897,103.8501",
+        "ping": 10.74
+    },
+    {
+        "proxy": "34.36.96.83:3128",
+        "kota": "Salem",
+        "wilayah": "Oregon",
+        "negara": "US",
+        "zona-waktu": "America/Los_Angeles",
+        "lokasi": "44.9429,-123.0351",
+        "ping": 12.28
+    },
+    {
+        "proxy": "194.233.81.116:14344",
+        "kota": "Singapore",
+        "wilayah": "Singapore",
+        "negara": "SG",
+        "zona-waktu": "Asia/Singapore",
+        "lokasi": "1.2897,103.8501",
+        "ping": 14.54
+    },
+    {
+        "proxy": "112.217.162.5:3128",
+        "kota": "Yongsan-dong",
+        "wilayah": "Seoul",
+        "negara": "KR",
+        "zona-waktu": "Asia/Seoul",
+        "lokasi": "37.5159,127.0336",
+        "ping": 14.62
+    },
+    {
+        "proxy": "35.213.91.45:80",
+        "kota": "Tokyo",
+        "wilayah": "Tokyo",
+        "negara": "JP",
+        "zona-waktu": "Asia/Tokyo",
+        "lokasi": "35.6895,139.6917",
+        "ping": 17.94
+    },
+    {
+        "proxy": "144.21.50.41:3128",
+        "kota": "London",
+        "wilayah": "England",
+        "negara": "GB",
+        "zona-waktu": "Europe/London",
+        "lokasi": "51.5085,-0.1257",
+        "ping": 18.49
+    },
+    {
+        "proxy": "103.169.254.61:8068",
+        "kota": "Jakarta",
+        "wilayah": "Jakarta",
+        "negara": "ID",
+        "zona-waktu": "Asia/Jakarta",
+        "lokasi": "-6.2146,106.8451",
+        "ping": 19.24
+    },
+    {
+        "proxy": "144.21.50.41:3128",
+        "kota": "London",
+        "wilayah": "England",
+        "negara": "GB",
+        "zona-waktu": "Europe/London",
+        "lokasi": "51.5085,-0.1257",
+        "ping": 20.12
+    },
+    {
+        "proxy": "34.70.74.78:3128",
+        "kota": "Des Moines",
+        "wilayah": "Iowa",
+        "negara": "US",
+        "zona-waktu": "America/Chicago",
+        "lokasi": "41.6005,-93.6091",
+        "ping": 21.28
+    },
+    {
+        "proxy": "38.44.237.233:999",
+        "kota": "Bre\u00f1a",
+        "wilayah": "Lima region",
+        "negara": "PE",
+        "zona-waktu": "America/Lima",
+        "lokasi": "-12.0561,-77.0529",
+        "ping": 21.82
+    },
+    {
+        "proxy": "148.251.155.179:3128",
+        "kota": "Falkenstein",
+        "wilayah": "Saxony",
+        "negara": "DE",
+        "zona-waktu": "Europe/Berlin",
+        "lokasi": "50.4779,12.3713",
+        "ping": 22.37
+    },
+    {
+        "proxy": "5.189.184.6:80",
+        "kota": "Munich",
+        "wilayah": "Bavaria",
+        "negara": "DE",
+        "zona-waktu": "Europe/Berlin",
+        "lokasi": "48.1374,11.5755",
+        "ping": 22.6
+    },
+    {
+        "proxy": "35.213.91.45:80",
+        "kota": "Tokyo",
+        "wilayah": "Tokyo",
+        "negara": "JP",
+        "zona-waktu": "Asia/Tokyo",
+        "lokasi": "35.6895,139.6917",
+        "ping": 22.85
+    },
+    {
+        "proxy": "112.217.162.5:3128",
+        "kota": "Yongsan-dong",
+        "wilayah": "Seoul",
+        "negara": "KR",
+        "zona-waktu": "Asia/Seoul",
+        "lokasi": "37.5159,127.0336",
+        "ping": 23.02
+    }
+]
